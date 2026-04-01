@@ -24,9 +24,6 @@ Passionate about crafting clean and efficient web applications that solve real-w
 - **Master of Social Sciences (MSS) in Economics**  
   Dhaka College, University of Dhaka | 2020 – 2021  
 
-- **Bachelor of Social Sciences (BSS) in Economics**  
-  Dhaka College, University of Dhaka | 2014 – 2018  
-
 ---
 
 ## 💼 Experience
