@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Kamruzzaman
 
-<!--
-**Kamruzzaman-98/Kamruzzaman-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Web Developer**  
+Passionate about crafting clean and efficient web applications that solve real-world problems.  
 
-Here are some ideas to get you started:
+📍 Location: Kallyanpur, Dhaka, Bangladesh  
+📧 Email: [kamruzzamank98@gmail.com](mailto:kamruzzamank98@gmail.com)  
+📱 Mobile: +880 1764 987510  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technologies & Skills
+- **Frontend:** HTML5, CSS3, JavaScript, React.js, Vue.js, jQuery, Bootstrap  
+- **Backend:** PHP, Laravel, MySQL  
+- **CMS:** WordPress  
+
+---
+
+## 🎓 Education
+- **Diploma in Web Application Development** (Laravel, React, Vue.js & WordPress)  
+  IsDB-BISEW IT Scholarship Programme | Sep 2024 – Jul 2025  
+  Dhaka, Bangladesh  
+
+- **Master of Social Sciences (MSS) in Economics**  
+  Dhaka College, University of Dhaka | 2020 – 2021  
+
+- **Bachelor of Social Sciences (BSS) in Economics**  
+  Dhaka College, University of Dhaka | 2014 – 2018  
+
+---
+
+## 💼 Experience
+- **Full Stack Web Developer** – 1 Year experience  
+Building efficient and user-friendly web applications using modern tools and frameworks.  
+
+---
+
+## 🚀 About Me
+I enjoy building full-stack web applications that are user-friendly, efficient, and solve real-world problems. My goal is to create real-world solutions by writing clean, maintainable code and continuously improving my skills in modern web development.  
+
+---
+
+## 📊 GitHub Stats
+![Kamruzzaman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamruzzamank98&show_icons=true&theme=radical)
