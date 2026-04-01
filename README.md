@@ -19,14 +19,12 @@ Passionate about crafting clean and efficient web applications that solve real-w
 IsDB-BISEW IT Scholarship | Sep 2024 – Jul 2025  
 
 **Master of Social Sciences (MSS) in Economics**  
-Dhaka College, University of Dhaka | Jan 2020 – Dec 2021  
+Dhaka College, University of Dhaka | 2020 – 2021  
 
 ---
 
 ## 💼 Experience
 **Full Stack Web Developer** – 1 Year  
-- Built efficient, user-friendly web applications using Laravel & React.  
-- Developed an e-commerce platform reducing checkout time by 20%.  
 
 ---
 
