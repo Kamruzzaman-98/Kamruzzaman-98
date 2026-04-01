@@ -3,16 +3,14 @@
 💻 **Full Stack Web Developer**  
 Passionate about crafting clean and efficient web applications that solve real-world problems.  
 
-📍 Location: Kallyanpur, Dhaka, Bangladesh  
-📧 Email: [kamruzzamank98@gmail.com](mailto:kamruzzamank98@gmail.com)  
-📱 Mobile: +880 1764 987510  
+📍 Location: Dhaka, Bangladesh  
+📧 Email: [kamruzzamank98@gmail.com](mailto:kamruzzamank98@gmail.com) 
 
 ---
 
 ## 🛠 Technologies & Skills
-- **Frontend:** HTML5, CSS3, JavaScript, React.js, Vue.js, jQuery, Bootstrap  
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, React.js, Vue.js  
 - **Backend:** PHP, Laravel, MySQL  
-- **CMS:** WordPress  
 
 ---
 
