@@ -42,11 +42,3 @@ I enjoy building full-stack web applications that are user-friendly, efficient, 
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamruzzaman-98&show_icons=true&theme=radical)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kamruzzaman-98&theme=radical)
-
-## 📈 GitHub Activity Graph
-![Kamruzzaman's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kamruzzaman-98&theme=react-dark&area=true)
