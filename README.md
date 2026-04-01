@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kamruzzaman
+# Hi, I'm Kamruzzaman
 
 💻 **Full Stack Web Developer**  
 Passionate about crafting clean and efficient web applications that solve real-world problems.
