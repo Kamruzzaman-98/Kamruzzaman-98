@@ -4,7 +4,10 @@
 Passionate about crafting clean and efficient web applications that solve real-world problems.  
 
 📍 Location: Dhaka, Bangladesh  
-📧 Email: [kamruzzamank98@gmail.com](mailto:kamruzzamank98@gmail.com) 
+📧 Email: kamruzzamank98@gmail.com  
+🌍 Portfolio: http://kamruzzaman.intelsofts.com/  
+💼 LinkedIn: https://linkedin.com/in/md-kamruzzaman-5a9715344  
+📘 Facebook: https://facebook.com/md.kamruzzaman.1800721   
 
 ---
 
