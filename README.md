@@ -19,7 +19,10 @@ Passionate about crafting clean and efficient web applications that solve real-w
 IsDB-BISEW IT Scholarship | Sep 2024 – Jul 2025  
 
 **Master of Social Sciences (MSS) in Economics**  
-Dhaka College, University of Dhaka | 2020 – 2021  
+Dhaka College, University of Dhaka | 2020 – 2021 
+
+**Bachelor of Social Sciences (BSS) in Economics**  
+Dhaka College, University of Dhaka | 2014 – 2015
 
 ---
 
