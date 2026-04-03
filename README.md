@@ -10,13 +10,13 @@ Passionate about crafting clean and efficient web applications that solve real-w
 
 ## 🛠 Technologies & Skills
 **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, React.js, Vue.js  
-**Backend:** PHP, Laravel, MySQL  
+**Backend:** PHP (Laravel), MySQL  
 
 ---
 
 ## 🎓 Education
 **Diploma in Web Application Development** (Laravel, React, Vue.js & WordPress)  
-IsDB-BISEW IT Scholarship | Sep 2024 – Jul 2025  
+IsDB-BISEW IT Scholarship Programme | Sep 2024 – Jul 2025  
 
 **Master of Social Sciences (MSS) in Economics**  
 Dhaka College, University of Dhaka | 2020 – 2021 
@@ -37,7 +37,7 @@ I enjoy building full-stack web applications that are user-friendly, efficient, 
 ---
 
 ## 🌐 Connect with Me
-🌍 Portfolio: [kamruzzaman.intelsofts.com](http://kamruzzaman.intelsofts.com/)  
+🌍 Portfolio: [kamruzzaman.intelsofts.com](http://kamruzzaman.intelsofts.com/)   
 💼 LinkedIn: [linkedin.com/in/md-kamruzzaman-5a9715344](https://linkedin.com/in/md-kamruzzaman-5a9715344)  
 📘 Facebook: [facebook.com/md.kamruzzaman.1800721](https://facebook.com/md.kamruzzaman.1800721)  
 
