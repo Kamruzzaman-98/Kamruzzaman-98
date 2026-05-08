@@ -27,7 +27,7 @@ Dhaka College, University of Dhaka | 2014 – 2015
 ---
 
 ## 💼 Experience
-**Full Stack Web Developer** – Nov 2025 – Present 
+**Full Stack Web Developer** | Nov 2025 – Present 
 
 ---
 
