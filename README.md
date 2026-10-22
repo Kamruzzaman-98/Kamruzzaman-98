@@ -27,7 +27,7 @@ Dhaka College, University of Dhaka | 2014 – 2015
 ---
 
 ## 💼 Experience
-**Junior Laravel Developer** | Nov 2025 – Present 
+**Junior Laravel Developer** | Softvence Delta | Nov 2025 – Present 
 
 -  Working with Laravel-based web application development.
 -  Focused on writing clean, maintainable, and efficient code.
