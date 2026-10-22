@@ -38,7 +38,9 @@ I enjoy building full-stack web applications that are user-friendly, efficient, 
 
 ## 🌐 Connect with Me
 🌍 Portfolio: [kamruzzaman-98.github.io/portfolio/](https://kamruzzaman-98.github.io/portfolio/)
-💼 LinkedIn: [linkedin.com/in/md-kamruzzaman-5a9715344](https://linkedin.com/in/md-kamruzzaman-5a9715344)  
+
+💼 LinkedIn: [linkedin.com/in/md-kamruzzaman-5a9715344](https://linkedin.com/in/md-kamruzzaman-5a9715344) 
+
 📘 Facebook: [facebook.com/md.kamruzzaman.1800721](https://facebook.com/md.kamruzzaman.1800721)  
 
 ---
